@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PracticeTablayout</string>
+
+    <array name="images_array">
+        <item>https://crackberry.com/sites/crackberry.com/files/styles/large/public/topic_images/2013/ANDROID.png?itok=xhm7jaxS</item>
+        <item>https://pbs.twimg.com/profile_images/762369348300251136/5Obhonwa.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/2000px-Apple_Computer_Logo_rainbow.svg.png</item>
+        <item>http://news.unl.edu/sites/default/files/Microsoft-PESTEL-Analysis.jpg</item>
+        <item>http://fontmeme.com/images/Amazon-Logo.jpg</item>
+        <item>http://www.valuewalk.com/wp-content/uploads/2016/08/Intel.png</item>
+        <item>https://regmedia.co.uk/2012/09/04/cisco.jpg?x=1200&amp;y=794</item>
+        <item>https://pbs.twimg.com/profile_images/614802024832610304/_CZY2puL.jpg</item>
+        <item>http://cdn.slashgear.com/wp-content/uploads/2014/10/hp-logo-480x480.png</item>
+        <item>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwRQYyRiwRn1yTHOYAJje9w4gZwM0MkfCr5DqsmHn4FvwIvPWY</item>
+        <item>http://investcorrectly.com/wp-content/uploads/2015/03/Qualcomm_logo.jpg</item>
+        <item>http://www.rocklandits.com/wp-content/themes/rockland/new/img/emc_logo.png</item>
+        <item>https://www.brandeps.com/logo-download/X/Xerox-01.png</item>
+        <item>https://media.glassdoor.com/sqll/193/danaher-squarelogo.png</item>
+        <item>http://blog.trackduck.com/wp-content/uploads/2015/05/310x358xScreen-Shot-2015-05-06-at-14.10.31-310x358.png.pagespeed.ic._KUnI7EDeI.png</item>
+        <item>https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAaZAAAAJGY3OWE4M2Y4LWU0ZDAtNDVkOC1hZDVlLWE5M2FhNDQ4OTRkMg.png</item>
+        <item>http://www.smarteranalyst.com/wp-content/uploads/2015/06/MU1.jpg</item>
+        <item>https://media.glassdoor.com/sqll/2330/jabil-squarelogo-1408998324060.png</item>
+        <item>http://tulipcomputersystems.com/media/wysiwyg/HARD_DISK/WD/wd.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/CSC_Logo.svg/langfr-220px-CSC_Logo.svg.png</item>
+
+    </array>
+
+    <array name="heading_array">
+        <item>Android</item>
+        <item>Google</item>
+        <item>Apple</item>
+        <item>Microsoft</item>
+        <item>Amazon</item>
+        <item>Intel</item>
+        <item>Cisco</item>
+        <item>IBM</item>
+        <item>HP</item>
+        <item>Oracle</item>
+        <item>Qualcomm</item>
+        <item>EMC</item>
+        <item>Xerox</item>
+        <item>Danaher</item>
+        <item>eBay</item>
+        <item>Thermo Fisher Scientific</item>
+        <item>Micron Technology</item>
+        <item>Jabil Circuit</item>
+        <item>Western Digital</item>
+        <item>Computer Sciences Corp.</item>
+
+
+    </array>
+
+</resources>
